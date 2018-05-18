@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\thinkingcplus.dir/objects.a
+C:\minGw\bin\ar.exe cr CMakeFiles\thinkingcplus.dir/objects.a @CMakeFiles\thinkingcplus.dir\objects1.rsp
+C:\minGw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\thinkingcplus.dir/objects.a -Wl,--no-whole-archive  -o thinkingcplus.exe -Wl,--out-implib,libthinkingcplus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\thinkingcplus.dir\linklibs.rsp

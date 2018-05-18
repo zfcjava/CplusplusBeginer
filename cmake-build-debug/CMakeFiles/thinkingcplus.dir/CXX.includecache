@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/CLionProjects/thinkingcplus/global2.cpp
+
+C:/Users/Administrator/CLionProjects/thinkingcplus/main.cpp
+string
+-
+fstream
+-
+iostream
+-
+
